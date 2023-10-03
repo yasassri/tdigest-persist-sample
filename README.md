@@ -11,3 +11,5 @@ Change the SQLServer config according and then do.
 ```
 node DigestExample.js
 ```
+
+Detailed blog at: https://yasassri.github.io/posts/StoringTDigestsInDatabaseAndRecostructingItBackInJavascript/
